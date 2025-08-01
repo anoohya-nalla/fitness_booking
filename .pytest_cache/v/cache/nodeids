@@ -1,0 +1,5 @@
+[
+  "tests/test_api.py::test_book_class",
+  "tests/test_api.py::test_get_bookings",
+  "tests/test_api.py::test_get_classes"
+]

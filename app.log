@@ -3,3 +3,25 @@
 2025-07-31 12:34:06,629 - INFO - Classes retrieved for timezone: Asia/Kolkata
 2025-07-31 12:36:27,497 - INFO - Booking successful for anoohya@gmail.com in class 1
 2025-07-31 12:38:00,010 - INFO - Bookings retrieved for email: anoohya@gmail.com
+2025-07-31 13:05:00,020 - INFO - Classes retrieved for timezone: Asia/Kolkata
+2025-07-31 13:05:43,893 - INFO - Classes retrieved for timezone: Asia/Kolkata
+2025-07-31 13:05:51,160 - INFO - Classes retrieved for timezone: Asia/Kolkata
+2025-07-31 13:30:17,360 - INFO - Classes retrieved for timezone: America/New_York
+2025-07-31 13:31:27,943 - INFO - Classes retrieved for timezone: Asia/Kolkata
+2025-08-01 12:29:48,682 - INFO - Classes retrieved for timezone: Asia/Kolkata
+2025-08-01 12:30:39,430 - INFO - Booking successful for john@example.com in class 1
+2025-08-01 12:31:13,610 - INFO - Bookings retrieved for email: john@examples.com
+2025-08-01 12:37:20,585 - INFO - Classes retrieved for timezone: Asia/Kolkata
+2025-08-01 12:45:37,168 - INFO - Classes retrieved for timezone: Asia/Kolkata
+2025-08-01 12:50:51,783 - INFO - Classes retrieved for timezone: Asia/Kolkata
+2025-08-01 12:51:27,231 - INFO - Booking successful for anu@example.com in class 1
+2025-08-01 12:51:53,592 - INFO - Bookings retrieved for email: anu@example.com
+2025-08-01 12:52:32,952 - INFO - Classes retrieved for timezone: America/New_York
+2025-08-01 13:02:15,529 - INFO - Classes retrieved for timezone: Asia/Kolkata
+2025-08-01 13:02:49,211 - INFO - Booking successful for anoohya@example.com in class 1
+2025-08-01 13:03:08,536 - INFO - Bookings retrieved for email: anoohya@example.com
+2025-08-01 13:03:47,569 - INFO - Classes retrieved for timezone: America/New_York
+2025-08-01 13:08:53,627 - INFO - Classes retrieved for timezone: Asia/Kolkata
+2025-08-01 13:09:27,973 - INFO - Booking successful for n-anoohya@gmail.com in class 1
+2025-08-01 13:09:57,191 - INFO - Bookings retrieved for email: n-anoohya@gmail.com
+2025-08-01 13:10:34,149 - INFO - Classes retrieved for timezone: America/New_York
